@@ -34,3 +34,6 @@ main list
   ----|----
   keerthi|67
   roja|01
+  - [x] keerthi
+  - [ ] jahnavi
+  - [ ] dhanvi
